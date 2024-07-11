@@ -30,16 +30,6 @@ local_settings.py
 # VS Code
 .vscode/
 
-# PyCharm
-.idea/
-
-# IntelliJ
-*.iml
-*.ipr
-*.iws
-.idea/
-out/
-
 # Sphinx documentation
 docs/_build/
 
@@ -58,6 +48,7 @@ yarn-error.log*
 # Static files
 app/static/css/styles.css
 app/static/js/script.js
+app/static/imgs/*
 
 # Environment variables
 .env
